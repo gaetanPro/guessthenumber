@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "965148141073",
+    "project_id": "guessthenumber-691e0",
+    "storage_bucket": "guessthenumber-691e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965148141073:android:47da09476077185a41b3b0",
+        "android_client_info": {
+          "package_name": "com.projetguessthenumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965148141073-bnnvh2bs4s7qgermhsrpbp8h6g62khjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projetguessthenumber",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "965148141073-d28s1ngkcpvie9rljirppu5pu2dci56j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLANbfu4FJzKRiUyHMzB4yC1ByVZcZXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965148141073-d28s1ngkcpvie9rljirppu5pu2dci56j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
